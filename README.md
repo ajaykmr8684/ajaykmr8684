@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **DSA & Lord of the Rings**
 
-- ⚡ Fun fact **Nothing feels better than your code running at first attempt**
+- ⚡ Fun fact **str1 += str2 is faster than str1 = str1 + str2, Thank me later!**
 
 
 ---
