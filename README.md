@@ -21,8 +21,6 @@
 
 
 
-----
-
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
