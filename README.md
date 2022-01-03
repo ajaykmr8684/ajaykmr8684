@@ -2,7 +2,7 @@
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Ajay  <img width="30px" src="https://img.icons8.com/ios/50/000000/hitchhike.png"/></h1>
+<h1 align="center">Hey, I'm Ajay  <img width="30px" src="https://img.icons8.com/ios/50/000000/hitchhike.png"/></h1>
 <h3 font-size="20" align="center">A software developer and "wannabe" competitive programmer.</h3>
 
 
