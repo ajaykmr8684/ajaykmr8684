@@ -4,9 +4,10 @@
 
 <h1 align="center">Hey, I'm Ajay  <img width="30px" src="https://img.icons8.com/ios/50/000000/hitchhike.png"/></h1>
 <h3 font-size="20" align="center">A software developer and "wannabe" competitive programmer.</h3>
+<!-- <img align="right" style="width:2px; height:2px" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/> -->
 
 
-- 🌱 I’m currently learning **How to write helloWorld.cpp** <img align="right" style="width:2px; height:2px" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **How to write helloWorld.cpp** 
 
 - 🤝 I’m looking for help with **React & Web 3.0**
 
